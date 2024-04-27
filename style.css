@@ -199,9 +199,6 @@ html, body{
     margin-top: 25vh;
     line-height: 3vh;
 }
-.page3 .pg3-text .right .marg{
-    /* margin-bottom: 1.2vh; */
-}
 .page4 .pg4-text{
     background-color: #292929;
     display: flex;
@@ -233,12 +230,10 @@ html, body{
     margin-top: 2.5vh;
 }
 .page5{
+    position: relative;
     height: 150vh;
     
 }
-
-
-
 canvas{
     position: relative;
     z-index: 9;
